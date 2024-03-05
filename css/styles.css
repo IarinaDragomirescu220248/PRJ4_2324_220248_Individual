@@ -15,7 +15,7 @@ body {
 
 .resume-header {
     background-color: #de97de;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: "Anta";
 	color:#ffffff
 }
 
@@ -26,7 +26,8 @@ body {
 .resume-aside {
 	background-color: #eb99d8;
 	font-family: cursive; 
-	color:#ffffff
+	color:#ffffff;
+	border: 2px solid #e6bcdb;
 }
 
 /* Styles for lists in the document */
@@ -52,4 +53,15 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+/* Custom Styles */
+
+.language-list li .language-progress {
+	background-color: #732e67;
+	
+}
+
+.language-list li .border-info {
+	border-color: #ffffff;
 }
