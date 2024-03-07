@@ -26,4 +26,6 @@ In order to pass the individual assessment, you must modify the following elemen
 - Emojis: Twemoji by Twitter - https://twemoji.twitter.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
 - Social icons: FontAwesome - https://fontawesome.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
 
-Individual Assignment Hand In Link: https://iarinadragomirescu220248.github.io/PRJ4_2324_220248_Individual/
+
+## Individual Assignment Hand In Link:
+https://iarinadragomirescu220248.github.io/PRJ4_2324_220248_Individual/
